@@ -1,0 +1,1 @@
+Sugerencia: Condiciones en cada campo, validaciones email y password, estamos haciendouna api o que??.
